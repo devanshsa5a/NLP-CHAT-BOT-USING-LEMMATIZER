@@ -4,12 +4,16 @@ Follow these steps to run my bot on your computer:
 
 step 1:
 pyhon install pip
+
 step 2:
 pip install tensorflow
+
 step 3:
 pip install numpy
+
 step 4:
 pip install nltk
+
 step 5:
 pip install tflearn
 
